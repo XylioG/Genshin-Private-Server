@@ -20,7 +20,7 @@ EN | [中文](README_zh-CN.md)
 
 ## Quick setup guide
 
-**Note:** For support please join our [Discord](https://discord.gg/T5vZU6UyeG).
+**Note:** For support please join [Discord](https://discord.gg/T5vZU6UyeG).
 
 ### Requirements
 
